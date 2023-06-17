@@ -1,0 +1,34 @@
+.center {
+    margin: auto;
+    border-style: none;
+    display: block;
+}
+
+.selector-container {
+    margin: 1.5rem 2.5rem;
+    padding: 8px;
+    flex-basis: 0;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.outputs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.margin {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
